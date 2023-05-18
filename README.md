@@ -1,11 +1,11 @@
-About tree-math
-===============
+About tree-math-feedstock
+=========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tree-math-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/google/tree-math
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/tree-math-feedstock/blob/main/LICENSE.txt)
 
 Summary: Mathematical operations for JAX pytrees
 
